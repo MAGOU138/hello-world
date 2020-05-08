@@ -1,2 +1,3 @@
 # hello-world
-repository introduction
+Hello!
+This is my practice in exploring GitHub.
